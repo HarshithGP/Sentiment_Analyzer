@@ -1,0 +1,7 @@
+Performed a sentiment analysis of a dataset comprising of reviews for Apple's products using the Naive Bayes Supervised Classifier.
+
+Generated the bag of words model from the pre processed user reviews.
+
+Pre Processing of user reviews was performed using the Porter Stemmer and common stopwords were eliminated.
+
+Divided the dataset into train/test data in the ratio 80:20 respectively and achieved an accuracy of 85.42%
